@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .shopping-cart{
+      margin-left:1150px;
+  }
+  .modal-content{overflow: hidden;}
+  .card-body-basket{display:flex;
+  flex-direction: row;}
+  .btn{height:30px;}
+  .zoom{transform: scale(1.0);}
+  .zoom:hover{transform: scale(1.09);}
+  .AddtoCart{margin-bottom:50px;}
+  .image{
+    width: 130px!important;
+    height: 130px;
+  }
